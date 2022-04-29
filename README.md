@@ -12,6 +12,7 @@ Source: https://data.cms.gov/Medicare/Inpatient-Prospective-Payment-System-IPPS-
 
 ### Tableau File
 
+This file consist of 5 different visuals to get insights of the data.
 ### MongoDB Query
 
 After having visuals, we have then tried to create a query on MongoDB. The query is:
